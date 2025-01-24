@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bbangHo/bbangHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>bbangHo</h3>
+  <hr>
 
-Here are some ideas to get you started:
+  <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbangHo&layout=compact" width="400" />
+    <a href="https://solved.ac/sonsins/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsins" width="400" />
+    </a>
+  </div>
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbangHo&layout=compact)
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbbangHo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsins)](https://solved.ac/sonsins/)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  
+  <br><br>
+
+</div>
+
+

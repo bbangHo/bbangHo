@@ -1,15 +1,22 @@
+
+
 <div align="center">
 
   <h3>bbangHo</h3>
   <hr>
 
-  <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbangHo&layout=compact" width="400" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bbangHo&show_icons=true&theme=dark" width="400" />
+  </p>
+  <p align="center">
     <a href="https://solved.ac/sonsins/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsins" width="400" />
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sonsins" width="400" />
     </a>
-  </div>
+  </p>
 
+
+
+  <h3> Tech Stack </h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
